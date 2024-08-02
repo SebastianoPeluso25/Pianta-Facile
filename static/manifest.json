@@ -1,0 +1,19 @@
+{
+    "name": "Pianta Facile",
+    "short_name": "Pianta Facile",
+    "description": "Pianta Facile è la tua app dove puoi vedere quando piantare le tue piante.",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "./colorclash.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "start_url": "/index.html",
+    "scope": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color":"red"
+}
